@@ -1,0 +1,34 @@
+.first {
+    background-color: #c61820;
+    width: 500px;
+    height: 300px;
+    border: 2px solid black;
+}
+.w1 {
+    width:50px;
+    height: 300px;
+    background-color: #bcbdbb;
+    left: 100px;
+    position: absolute;
+}
+.w2 {
+    width: 500px;
+    height:50px;
+    background-color: #bcbdbb;
+    top: 130px;
+    position: absolute;
+}
+.b1 {
+    width: 25px;
+    height: 300px;
+    background-color: #0d458f;
+    left: 111px;
+    position: absolute;
+}
+.b2 {
+    width: 500px;
+    height:25px;
+    background-color: #0d458f;
+    position: absolute;
+    top: 145px;
+}
